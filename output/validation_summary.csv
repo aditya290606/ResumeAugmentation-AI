@@ -1,0 +1,9 @@
+dimension,score,benchmark,status
+Overall Quality Score,95.0%,>= 90.0%,PASSED
+Data Integrity (BIO & Offset Validity),100.0%,100.0%,PASSED
+Content Consistency (Semantic Preservation),100.0%,100.0%,PASSED
+Parsing Info Preservation (Zero Drift),100.0%,>= 98.0%,PASSED
+Structural Diversity Index,75.0%,>= 75.0%,PASSED
+Total Evaluated Records,60,>= 50,MET
+Base Resumes Represented,10,10 Archetypes,MET
+Unique Layout Permutations,10,>= 5,HIGH DIVERSITY

@@ -1,0 +1,851 @@
+example_id,source_id,num_tokens,num_entities,augmentations,text
+r001-000,r001,85,14,original,"Contact
+Priya Sharma | priya.sharma@mail.com | +91 98480 12345 | Hyderabad, India
+Summary
+Machine learning engineer with two years of experience building NLP pipelines for document understanding.
+Experience
+• Machine Learning Intern at Acme Analytics, Jun 2024 - Aug 2024
+• Built a text classification model that raised ticket routing accuracy by 18%.
+• Developed data labeling tools used by a team of twelve annotators.
+Education
+B.Tech in Computer Science from Lakeside Institute of Technology, 2021 - 2025
+Skills
+Python
+spaCy
+PyTorch
+SQL"
+r001-001,r001,88,14,"phone_format,company_variation,date_format,typo,punctuation,verb_swap,verb_swap,punctuation,header_rename,header_rename,header_rename","Contact
+Priya Sharma / priya.sharma@mail.com / +91 9848012345 / Hyderabad, India
+Summary
+Madhine learning engineer with two years of experience building NLP pipelines for document understanding
+Work Experience
+◦ Machine Learning Intern at Acme Analytics LLC, Jun '24 - August 2024
+◦ Engineered a text classification model that raised ticket routing accuracy by 18%.
+◦ Designed data labeling tools used by a team of twelve annotators
+Educational Qualifications
+B.Tech in Computer Science from Lakeside Institute of Technology, 2021 - 2025
+Tech Stack
+Python
+spaCy
+PyTorch
+SQL"
+r001-002,r001,89,14,"phone_format,date_format,date_format,verb_swap,punctuation,verb_swap,header_rename,header_rename,header_rename,skills_inline","Personal Information
+Priya Sharma • priya.sharma@mail.com • +91-984.801.2345 • Hyderabad, India
+About Me
+Machine learning engineer with two years of experience building NLP pipelines for document understanding.
+Career History
+• Machine Learning Intern at Acme Analytics, June 2024 - Aug 2024
+• Engineered a text classification model that raised ticket routing accuracy by 18%
+• Implemented data labeling tools used by a team of twelve annotators.
+Education
+B.Tech in Computer Science from Lakeside Institute of Technology, '21 - '25
+Skills
+Python, spaCy, PyTorch, SQL"
+r001-003,r001,93,14,"phone_format,date_format,date_format,punctuation,transitional_prefix,punctuation,contact_multiline,header_style_underlined,header_rename,header_rename,header_rename,header_rename","Personal Details
+----------------
+Priya Sharma
+priya.sharma@mail.com
+98480-12345
+Hyderabad, India
+Summary
+------------
+Machine learning engineer with two years of experience building NLP pipelines for document understanding
+Career History
+--------------
+◦ Machine Learning Intern at Acme Analytics, Jun '24 - Aug '24
+◦ Led efforts to built a text classification model that raised ticket routing accuracy by 18%.
+◦ Developed data labeling tools used by a team of twelve annotators
+Education & Qualifications
+--------------------------
+B.Tech in Computer Science from Lakeside Institute of Technology, '21 - '25
+Skill Set
+------------
+Python
+spaCy
+PyTorch
+SQL"
+r001-004,r001,87,14,"date_format,date_format,typo,punctuation,verb_swap,transitional_prefix,header_rename,section_reorder","Contact
+Priya Sharma, priya.sharma@mail.com, +91 98480 12345, Hyderabad, India
+Executive Summary
+Machine learning engineer with two years of experience buildung NLP pipelines for document understanding
+Education
+B.Tech in Computer Science from Lakeside Institute of Technology, 2021 to 2025
+Experience
+• Machine Learning Intern at Acme Analytics, June 2024 - August 2024
+• Constructed a text classification model that raised ticket routing accuracy by 18%.
+• Successfully developed data labeling tools used by a team of twelve annotators.
+Skills
+Python
+spaCy
+PyTorch
+SQL"
+r001-005,r001,90,14,"phone_format,degree_variation,date_format,verb_swap,verb_swap,header_rename,header_rename,header_rename,section_reorder,skills_inline","Reach Me At
+Priya Sharma | priya.sharma@mail.com | 98480-12345 | Hyderabad, India
+Summary
+Machine learning engineer with two years of experience building NLP pipelines for document understanding.
+Education
+Bachelor of Technology in Computer Science from Lakeside Institute of Technology, 2021–2025
+Skill Set
+Python, spaCy, PyTorch, SQL
+Relevant Experience
+– Machine Learning Intern at Acme Analytics, Jun 2024 - Aug 2024
+– Developed a text classification model that raised ticket routing accuracy by 18%.
+– Created data labeling tools used by a team of twelve annotators."
+r002-000,r002,80,14,original,"Contact
+Rahul Verma | rahul.v@example.org | 98765 43210 | Bengaluru, India
+Profile
+Data scientist focused on search relevance and information extraction from unstructured text.
+Professional Experience
+• Data Scientist at Northwind Labs ( Mar 2023 - Present)
+• Designed a semantic search service that reduced query latency by 40%.
+• Managed a small team responsible for entity extraction pipelines.
+Education
+M.Sc. Data Science, Riverside University, 2021 - 2023
+Technical Skills
+NLTK, Pandas, Elasticsearch, Docker"
+r002-001,r002,81,14,"date_format,date_format,punctuation,verb_swap,header_rename,header_rename,header_rename","Contact Info
+Rahul Verma / rahul.v@example.org / 98765 43210 / Bengaluru, India
+Executive Summary
+Data scientist focused on search relevance and information extraction from unstructured text.
+Career History
+- Data Scientist at Northwind Labs ( 2023-03 - Current)
+- Designed a semantic search service that reduced query latency by 40%
+- Supervised a small team responsible for entity extraction pipelines.
+Education
+M.Sc. Data Science, Riverside University, '21 - '23
+Technical Skills
+NLTK, Pandas, Elasticsearch, Docker"
+r002-002,r002,80,14,"date_format,date_format,typo,verb_swap,header_rename,header_rename,header_rename","Contact
+Rahul Verma · rahul.v@example.org · 98765 43210 · Bengaluru, India
+Professional Profile
+Data scientist focused on search relevance and information extraction from unstructuerd text.
+Relevant Experience
+– Data Scientist at Northwind Labs ( 2023-03 - Present)
+– Developed a semantic search service that reduced query latency by 40%.
+– Managed a small team responsible for entity extraction pipelines.
+Education
+M.Sc. Data Science, Riverside University, '21 - '23
+Key Skills
+NLTK, Pandas, Elasticsearch, Docker"
+r002-003,r002,77,14,"phone_format,date_format,date_format,verb_swap,contact_multiline,header_rename,header_rename","Contact
+Rahul Verma
+rahul.v@example.org
+98765-43210
+Bengaluru, India
+Profile
+Data scientist focused on search relevance and information extraction from unstructured text.
+Work Experience
+- Data Scientist at Northwind Labs ( 2023-03 - Till Date)
+- Engineered a semantic search service that reduced query latency by 40%.
+- Managed a small team responsible for entity extraction pipelines.
+Academic History
+M.Sc. Data Science, Riverside University, 2021 to 2023
+Technical Skills
+NLTK, Pandas, Elasticsearch, Docker"
+r002-004,r002,86,14,"phone_format,date_format,degree_variation,typo,punctuation,verb_swap,transitional_prefix,transitional_prefix,header_rename,header_rename,header_rename,section_reorder","Personal Details
+Rahul Verma | rahul.v@example.org | 987-654-3210 | Bengaluru, India
+Professional Summary
+Data scientist focused on search relegance and information extraction from unstructured text
+Professional Experience
+▪ Data Scientist at Northwind Labs ( Mar '23 - Present)
+▪ Directly developed a semantic search service that reduced query latency by 40%.
+▪ Directly managed a small team responsible for entity extraction pipelines.
+Educational Qualifications
+Master of Science Data Science, Riverside University, 2021 - 2023
+Technical Skills
+NLTK, Pandas, Elasticsearch, Docker"
+r002-005,r002,77,14,"phone_format,company_variation,date_format,date_format,verb_swap,contact_multiline,header_upper,bullet_numbered,header_rename,header_rename,header_rename","REACH ME AT
+Rahul Verma
+rahul.v@example.org
++91-987.654.3210
+Bengaluru, India
+PROFILE
+Data scientist focused on search relevance and information extraction from unstructured text.
+RELEVANT EXPERIENCE
+1. Data Scientist at Northwind ( March 2023 - Current)
+2. Designed a semantic search service that reduced query latency by 40%.
+3. Coordinated a small team responsible for entity extraction pipelines.
+EDUCATION
+M.Sc. Data Science, Riverside University, '21 - '23
+TECH STACK
+NLTK, Pandas, Elasticsearch, Docker"
+r003-000,r003,80,16,original,"Contact Information
+Ananya Rao | ananya.rao@mailbox.in | 9123456780 | Pune, India
+Experience
+• Software Engineer at Bluepeak Systems, Jan 2022 - Dec 2024
+• Implemented a document ingestion service handling 50k files per day.
+• Improved CI build times by caching dependencies across pipelines.
+Projects
+• Resume keyword extractor built with spaCy and Flask.
+• Invoice field extraction prototype using Tesseract.
+Education
+B.E. Information Technology from Hillcrest Engineering College, 2018 - 2022
+Skills
+Java
+Python
+Kubernetes"
+r003-001,r003,93,16,"degree_variation,date_format,verb_swap,typo,header_style_dashed,header_rename","--- Reach Me At ---
+Ananya Rao · ananya.rao@mailbox.in · 9123456780 · Pune, India
+--- Experience ---
+- Software Engineer at Bluepeak Systems, Jan 2022 - Dec 2024
+- Implemented a document ingestion service handling 50k files per day.
+- Upgraded CI build times by caching dependencies across pipelines.
+--- Projects ---
+- Resume keyword extractor built with spaCy and Flask.
+- Invoice field extraction prototype usihg Tesseract.
+--- Education ---
+Bachelor of Engineering Information Technology from Hillcrest Engineering College, '18 - '22
+--- Skills ---
+Java
+Python
+Kubernetes"
+r003-002,r003,81,16,"company_variation,date_format,degree_variation,date_format,verb_swap,transitional_prefix,punctuation,header_rename,header_rename","Personal Details
+Ananya Rao • ananya.rao@mailbox.in • 9123456780 • Pune, India
+Experience
+– Software Engineer at Bluepeak, 2022-01 - Dec 2024
+– Implemented a document ingestion service handling 50k files per day.
+– Led efforts to elevated CI build times by caching dependencies across pipelines.
+Projects
+– Resume keyword extractor built with spaCy and Flask.
+– Invoice field extraction prototype using Tesseract
+Education
+Bachelor of Engineering Information Technology from Hillcrest Engineering College, 2018–2022
+Key Skills
+Java
+Python
+Kubernetes"
+r003-003,r003,78,16,"phone_format,date_format,date_format,punctuation,verb_swap,punctuation,contact_multiline,header_rename,header_rename,section_reorder","Reach Me At
+Ananya Rao
+ananya.rao@mailbox.in
+91234-56780
+Pune, India
+Skills
+Java
+Python
+Kubernetes
+Projects
+• Resume keyword extractor built with spaCy and Flask
+• Invoice field extraction prototype using Tesseract.
+Education
+B.E. Information Technology from Hillcrest Engineering College, 2018 to 2022
+Work Experience
+• Software Engineer at Bluepeak Systems, Jan 2022 - December 2024
+• Implemented a document ingestion service handling 50k files per day
+• Elevated CI build times by caching dependencies across pipelines."
+r003-004,r003,75,16,"company_variation,transitional_prefix,typo,contact_multiline,bullet_none,header_rename,header_rename","Personal Information
+Ananya Rao
+ananya.rao@mailbox.in
+9123456780
+Pune, India
+Experience
+Software Engineer at Bluepeak Solutions, Jan 2022 - Dec 2024
+Collaborated to implemented a document ingestion service handling 50k files per day.
+Improved CI build tumes by caching dependencies across pipelines.
+Portfolio Projects
+Resume keyword extractor built with spaCy and Flask.
+Invoice field extraction prototype using Tesseract.
+Education
+B.E. Information Technology from Hillcrest Engineering College, 2018 - 2022
+Skills
+Java
+Python
+Kubernetes"
+r003-005,r003,81,16,"phone_format,date_format,degree_variation,date_format,verb_swap,verb_swap,transitional_prefix,header_rename,header_rename","Contact Information
+Ananya Rao • ananya.rao@mailbox.in • 912.345.6780 • Pune, India
+Career History
+→ Software Engineer at Bluepeak Systems, 2022-01 - 12/2024
+→ Integrated a document ingestion service handling 50k files per day.
+→ Directly optimized CI build times by caching dependencies across pipelines.
+Personal Projects
+→ Resume keyword extractor built with spaCy and Flask.
+→ Invoice field extraction prototype using Tesseract.
+Education
+Bachelor of Engineering Information Technology from Hillcrest Engineering College, 2018–2022
+Skills
+Java
+Python
+Kubernetes"
+r004-000,r004,108,19,original,"Contact
+Aditya Kulkarni | aditya.kulkarni@techcorp.io | +91-9823019823 | Mumbai, India
+Summary
+Full Stack Engineer specializing in reactive frontend architecture, high-throughput microservices, and distributed cloud applications.
+Experience
+• Full Stack Developer at Vertex Cloud Systems, Aug 2022 - Present
+• Architected responsive web dashboard supporting over 100,000 daily active users.
+• Optimized database indexing and query latency across relational clusters.
+Key Projects
+• Real-time collaborative kanban board powered by React and WebSockets.
+• Automated invoice processing pipeline utilizing FastAPI and PostgreSQL.
+Education
+B.Tech in Computer Science, National Institute of Engineering, 2018 - 2022
+Technical Skills
+TypeScript, React, Node.js, PostgreSQL, Docker"
+r004-001,r004,116,19,"phone_format,date_format,degree_variation,date_format,verb_swap,punctuation,header_style_underlined,section_reorder","Contact
+------------
+Aditya Kulkarni, aditya.kulkarni@techcorp.io, 0982-301-9823, Mumbai, India
+Summary
+------------
+Full Stack Engineer specializing in reactive frontend architecture, high-throughput microservices, and distributed cloud applications.
+Technical Skills
+----------------
+TypeScript, React, Node.js, PostgreSQL, Docker
+Experience
+------------
+* Full Stack Developer at Vertex Cloud Systems, Aug '22 - Ongoing
+* Architected responsive web dashboard supporting over 100,000 daily active users.
+* Accelerated database indexing and query latency across relational clusters
+Key Projects
+------------
+* Real-time collaborative kanban board powered by React and WebSockets.
+* Automated invoice processing pipeline utilizing FastAPI and PostgreSQL.
+Education
+------------
+Bachelor of Technology in Computer Science, National Institute of Engineering, '18 - '22"
+r004-002,r004,123,19,"phone_format,degree_variation,date_format,typo,punctuation,typo,header_style_dashed,header_rename,header_rename","--- Contact ---
+Aditya Kulkarni • aditya.kulkarni@techcorp.io • 982-301-9823 • Mumbai, India
+--- Summary ---
+Full Stack Engineer specializing in reactive frontend architecture, high-throughput microservices, and distributd cloud applications
+--- Career History ---
+◦ Full Stack Developer at Vertex Cloud Systems, Aug 2022 - Present
+◦ Architected responsive web dashboaed supporting over 100,000 dwily active users.
+◦ Optimized database indexing and query latency across relational clusters.
+--- Key Projects ---
+◦ Real-time collaborative kanban board powered by React and WebSockets.
+◦ Automated invoice processing pipeline utilizing FastAPI and PostgreSQL.
+--- Academics ---
+Bachelor of Technology in Computer Science, National Institute of Engineering, 2018 to 2022
+--- Technical Skills ---
+TypeScript, React, Node.js, PostgreSQL, Docker"
+r004-003,r004,114,19,"phone_format,company_variation,date_format,degree_variation,date_format,typo,punctuation,transitional_prefix,header_rename,header_rename,header_rename,header_rename","Reach Me At
+Aditya Kulkarni | aditya.kulkarni@techcorp.io | 98230 19823 | Mumbai, India
+Summary
+Full Stack Engineer specializing in reactive frontend architecture, high-throughput microservices, and distributed cloud applications.
+Work Experience
+• Full Stack Developer at Vertex Cloud Solutions, 2022-08 - Present
+• Architected responsive web dashboard supporting over 100,000 daily active users.
+• Optimized database indexing and query latenvy across relational clusters
+Key Projects
+• Real-time collaborative kanban board powered by React and WebSockets.
+• Directly automated invoice processing pipeline utilizing FastAPI and PostgreSQL.
+Academics
+Bachelor of Technology in Computer Science, National Institute of Engineering, '18 - '22
+Skill Set
+TypeScript, React, Node.js, PostgreSQL, Docker"
+r004-004,r004,112,19,"date_format,date_format,punctuation,verb_swap,punctuation,bullet_numbered,header_rename,header_rename,header_rename,header_rename,section_reorder","Reach Me At
+Aditya Kulkarni · aditya.kulkarni@techcorp.io · +91-9823019823 · Mumbai, India
+Professional Profile
+Full Stack Engineer specializing in reactive frontend architecture, high-throughput microservices, and distributed cloud applications
+Key Projects
+1. Real-time collaborative kanban board powered by React and WebSockets
+2. Automated invoice processing pipeline utilizing FastAPI and PostgreSQL.
+Education
+B.Tech in Computer Science, National Institute of Engineering, 2018 to 2022
+Key Skills
+TypeScript, React, Node.js, PostgreSQL, Docker
+Career History
+1. Full Stack Developer at Vertex Cloud Systems, August 2022 - Till Date
+2. Engineered responsive web dashboard supporting over 100,000 daily active users.
+3. Optimized database indexing and query latency across relational clusters."
+r004-005,r004,109,19,"phone_format,date_format,transitional_prefix,punctuation,contact_multiline,header_rename,header_rename,header_rename,header_rename","Contact Information
+Aditya Kulkarni
+aditya.kulkarni@techcorp.io
+98230-19823
+Mumbai, India
+Summary
+Full Stack Engineer specializing in reactive frontend architecture, high-throughput microservices, and distributed cloud applications.
+Work Experience
+◦ Full Stack Developer at Vertex Cloud Systems, Aug '22 - Present
+◦ Architected responsive web dashboard supporting over 100,000 daily active users.
+◦ Optimized database indexing and query latency across relational clusters.
+Key Projects
+◦ Led efforts to real-time collaborative kanban board powered by React and WebSockets.
+◦ Automated invoice processing pipeline utilizing FastAPI and PostgreSQL
+Academics
+B.Tech in Computer Science, National Institute of Engineering, 2018 - 2022
+Skill Set
+TypeScript, React, Node.js, PostgreSQL, Docker"
+r005-000,r005,87,15,original,"Personal Details
+Neha Patel | neha.patel@cloudnet.com | 9811223344 | Ahmedabad, India
+Profile
+DevOps and Cloud Infrastructure Architect with deep experience in declarative infrastructure, GitOps pipelines, and microservice orchestration.
+Professional Experience
+• DevOps Engineer at Apex Cloud Solutions, Feb 2023 - Present
+• Automated multi-region cluster provisioning reducing deployment times from 4 hours to 12 minutes.
+• Maintained zero-downtime rolling deployments across production clusters.
+Academics
+B.E. Computer Engineering, Gujarat Technological University, 2019 - 2023
+Core Competencies
+Terraform, Kubernetes, AWS, Ansible, Linux"
+r005-001,r005,90,15,"phone_format,date_format,typo,verb_swap,contact_multiline,header_style_underlined,header_rename,header_rename,section_reorder","PERSONAL DETAILS
+----------------
+Neha Patel
+neha.patel@cloudnet.com
+(981) 122-3344
+Ahmedabad, India
+PROFILE
+------------
+DevOps and Cloud Infrastructure Architect with deep experience in declarative infrastructure, Gitps pipelines, and microservice orchestration.
+TOOLS & TECHNOLOGIES
+--------------------
+Terraform, Kubernetes, AWS, Ansible, Linux
+EXPERIENCE
+------------
+▪ DevOps Engineer at Apex Cloud Solutions, Feb 2023 - Present
+▪ Automated multi-region cluster provisioning reducing deployment times from 4 hours to 12 minutes.
+▪ Kept zero-downtime rolling deployments across production clusters.
+ACADEMICS
+------------
+B.E. Computer Engineering, Gujarat Technological University, '19 - '23"
+r005-002,r005,88,15,"phone_format,date_format,date_format,verb_swap,transitional_prefix,header_upper,bullet_numbered,header_rename,header_rename,header_rename,section_reorder","CONTACT INFO
+Neha Patel · neha.patel@cloudnet.com · (981) 122-3344 · Ahmedabad, India
+ABOUT ME
+DevOps and Cloud Infrastructure Architect with deep experience in declarative infrastructure, GitOps pipelines, and microservice orchestration.
+ACADEMICS
+B.E. Computer Engineering, Gujarat Technological University, 2019 to 2023
+EXPERIENCE
+1. DevOps Engineer at Apex Cloud Solutions, 2023-02 - Current
+2. Digitized multi-region cluster provisioning reducing deployment times from 4 hours to 12 minutes.
+3. Directly maintained zero-downtime rolling deployments across production clusters.
+CORE COMPETENCIES
+Terraform, Kubernetes, AWS, Ansible, Linux"
+r005-003,r005,89,15,"date_format,typo,verb_swap,header_rename,header_rename,header_rename,header_rename,header_rename","Personal Information
+Neha Patel / neha.patel@cloudnet.com / 9811223344 / Ahmedabad, India
+Summary
+DeOvps and Cloud Infrastructure Architect with deep experience in declarative infrastructure, GitOps pipelines, and microservice orchestration.
+Career History
+◦ DevOps Engineer at Apex Cloud Solutions, February 2023 - Current
+◦ Digitized multi-region cluster provisioning reducing deployment times from 4 hours to 12 minutes.
+◦ Maintained zero-downtime rolling deployments across production clusters.
+Education & Qualifications
+B.E. Computer Engineering, Gujarat Technological University, 2019 - 2023
+Tech Stack
+Terraform, Kubernetes, AWS, Ansible, Linux"
+r005-004,r005,101,15,"company_variation,date_format,date_format,transitional_prefix,typo,header_style_dashed,header_rename,header_rename,header_rename","--- Contact Information ---
+Neha Patel | neha.patel@cloudnet.com | 9811223344 | Ahmedabad, India
+--- Profile ---
+DevOps and Cloud Infrastructure Architect with deep experience in declarative infrastructure, GitOps pipelines, and microservice orchestration.
+--- Professional Experience ---
+– DevOps Engineer at Apex Cloud LLC, Feb '23 - Present
+– Tasked with helping to automated multi-region cluster provisioning reducing deplyment times from 4 hours to 12 minutes.
+– Maintained zero-downtime rolling deployments across production clusters.
+--- Education ---
+B.E. Computer Engineering, Gujarat Technological University, '19 - '23
+--- Skill Set ---
+Terraform, Kubernetes, AWS, Ansible, Linux"
+r005-005,r005,85,15,"phone_format,company_variation,date_format,degree_variation,date_format,transitional_prefix,verb_swap,punctuation,contact_multiline,header_style_upper,header_rename,header_rename,header_rename","PERSONAL DETAILS
+Neha Patel
+neha.patel@cloudnet.com
++91 98112-23344
+Ahmedabad, India
+EXECUTIVE SUMMARY
+DevOps and Cloud Infrastructure Architect with deep experience in declarative infrastructure, GitOps pipelines, and microservice orchestration.
+RELEVANT EXPERIENCE
+• DevOps Engineer at Apex Cloud Labs, 2023-02 - Present
+• Successfully automated multi-region cluster provisioning reducing deployment times from 4 hours to 12 minutes.
+• Kept zero-downtime rolling deployments across production clusters
+ACADEMICS
+Bachelor of Engineering Computer Engineering, Gujarat Technological University, 2019–2023
+TECHNOLOGIES
+Terraform, Kubernetes, AWS, Ansible, Linux"
+r006-000,r006,97,18,original,"Contact
+Siddharth Menon | siddharth.m@productlead.co | +91 97450 67890 | Kochi, India
+Executive Summary
+Product Manager driving product lifecycle execution, user analytics, and revenue growth across SaaS and B2B platforms.
+Work Experience
+• Associate Product Manager at Zeta FinTech, Jul 2023 - Present
+• Led product roadmap for onboarding experience, lifting user conversion rate by 24%.
+• Conducted user interviews and synthesized metric insights across sprint cycles.
+Education
+MBA from Symbiosis Institute of Business, 2021 - 2023
+B.Tech from Cochin University, 2017 - 2021
+Skills
+JIRA, Mixpanel, SQL, Figma, Agile"
+r006-001,r006,101,18,"degree_variation,date_format,degree_variation,date_format,verb_swap,typo,punctuation,typo,punctuation,header_rename,header_rename,header_rename,header_rename","Contact
+Siddharth Menon | siddharth.m@productlead.co | +91 97450 67890 | Kochi, India
+Profile
+Product Manager driving product lifecycle execution, user analytics, and revenue growth across SaaS and B2B platforms.
+Employment History
+* Associate Product Manager at Zeta FinTech, Jul 2023 - Present
+* Directed product roadmap for onboarding experience, lifitng user conversion rate by 24%
+* Conducted user interviews and syntnesized metric insights across sprint cycles
+Educational Qualifications
+Master of Business Administration from Symbiosis Institute of Business, 2021–2023
+Bachelor of Technology from Cochin University, '17 - '21
+Core Competencies
+JIRA, Mixpanel, SQL, Figma, Agile"
+r006-002,r006,99,18,"phone_format,company_variation,date_format,date_format,punctuation,transitional_prefix,header_upper,header_rename,header_rename,section_reorder","CONTACT
+Siddharth Menon / siddharth.m@productlead.co / +91-974.506.7890 / Kochi, India
+OBJECTIVE
+Product Manager driving product lifecycle execution, user analytics, and revenue growth across SaaS and B2B platforms
+EDUCATION
+MBA from Symbiosis Institute of Business, 2021 - 2023
+B.Tech from Cochin University, '17 - '21
+TOOLS & TECHNOLOGIES
+JIRA, Mixpanel, SQL, Figma, Agile
+WORK EXPERIENCE
+◦ Associate Product Manager at Zeta FinTech Corp., 2023-07 - Present
+◦ Assisted team in led product roadmap for onboarding experience, lifting user conversion rate by 24%.
+◦ Conducted user interviews and synthesized metric insights across sprint cycles."
+r006-003,r006,95,18,"phone_format,date_format,degree_variation,date_format,punctuation,typo,punctuation,header_rename","Contact
+Siddharth Menon, siddharth.m@productlead.co, 9745067890, Kochi, India
+Objective
+Product Manager driving product lifecycle execution, user analytics, and revenue growth across SaaS and B2B platforms
+Work Experience
+- Associate Product Manager at Zeta FinTech, July 2023 - Present
+- Led product roadmap for onboarding experience, lifting user conversino rate by 24%
+- Conducted user interviews and synthesized metric insights across sprint cycles.
+Education
+Master of Business Administration from Symbiosis Institute of Business, 2021 - 2023
+B.Tech from Cochin University, 2017–2021
+Skills
+JIRA, Mixpanel, SQL, Figma, Agile"
+r006-004,r006,98,18,"phone_format,degree_variation,punctuation,header_rename,header_rename,header_rename","Contact
+Siddharth Menon · siddharth.m@productlead.co · +91-9745067890 · Kochi, India
+Summary
+Product Manager driving product lifecycle execution, user analytics, and revenue growth across SaaS and B2B platforms.
+Relevant Experience
+• Associate Product Manager at Zeta FinTech, Jul 2023 - Present
+• Led product roadmap for onboarding experience, lifting user conversion rate by 24%
+• Conducted user interviews and synthesized metric insights across sprint cycles.
+Education
+Master of Business Administration from Symbiosis Institute of Business, 2021 - 2023
+B.Tech from Cochin University, 2017 - 2021
+Tech Stack
+JIRA, Mixpanel, SQL, Figma, Agile"
+r006-005,r006,97,18,"phone_format,date_format,date_format,typo,transitional_prefix,punctuation,header_rename,header_rename,header_rename","Reach Me At
+Siddharth Menon | siddharth.m@productlead.co | +91 974.506.7890 | Kochi, India
+Summary
+Product Manager driving product lifecycle execution, user analytics, and revenue grlwth across SaaS and B2B platforms.
+Relevant Experience
+• Associate Product Manager at Zeta FinTech, 2023-07 - Current
+• Led efforts to led product roadmap for onboarding experience, lifting user conversion rate by 24%.
+• Conducted user interviews and synthesized metric insights across sprint cycles
+Education
+MBA from Symbiosis Institute of Business, 2021–2023
+B.Tech from Cochin University, 2017 - 2021
+Skills
+JIRA, Mixpanel, SQL, Figma, Agile"
+r007-000,r007,89,15,original,"Contact Info
+Kavita Deshmukh | kavita.d@analytics.org | 9867012345 | Nagpur, India
+Summary
+Data Analyst passionate about statistical modeling, executive dashboard design, and translating complex business telemetry into actionable insights.
+Experience
+• Data Analyst at OmniMetrics Corp, Oct 2022 - Present
+• Designed automated reporting pipelines saving 15 manual analyst hours every week.
+• Built executive dashboards tracking marketing spend efficiency and customer retention.
+Academic Background
+B.Sc. in Statistics from St. Xavier's College, 2019 - 2022
+Tools & Technologies
+Tableau, PowerBI, Excel, Python, SQL"
+r007-001,r007,90,15,"phone_format,date_format,typo,punctuation,verb_swap,transitional_prefix,punctuation,header_rename,header_rename","Contact Info
+Kavita Deshmukh · kavita.d@analytics.org · +91 9867012345 · Nagpur, India
+Summary
+Data Anlyst passionate about statistical modeling, executive dashboard design, and translating complex business telemetry into actionable insights
+Relevant Experience
+- Data Analyst at OmniMetrics Corp, 2022-10 - Present
+- Designed automated reporting pipelines saving 15 manual analyst hours every week.
+- Directly constructed executive dashboards tracking marketing spend efficiency and customer retention
+Academic Background
+B.Sc. in Statistics from St. Xavier's College, 2019 - 2022
+Key Skills
+Tableau, PowerBI, Excel, Python, SQL"
+r007-002,r007,98,15,"degree_variation,date_format,punctuation,contact_multiline,header_style_dashed,header_rename,header_rename,header_rename","--- Contact ---
+Kavita Deshmukh
+kavita.d@analytics.org
+9867012345
+Nagpur, India
+--- Professional Summary ---
+Data Analyst passionate about statistical modeling, executive dashboard design, and translating complex business telemetry into actionable insights
+--- Experience ---
+* Data Analyst at OmniMetrics Corp, Oct 2022 - Present
+* Designed automated reporting pipelines saving 15 manual analyst hours every week.
+* Built executive dashboards tracking marketing spend efficiency and customer retention.
+--- Academic History ---
+Bachelor of Science in Statistics from St. Xavier's College, 2019 to 2022
+--- Tools & Technologies ---
+Tableau, PowerBI, Excel, Python, SQL"
+r007-003,r007,94,15,"date_format,date_format,verb_swap,transitional_prefix,header_rename,header_rename,header_rename,section_reorder","Contact Info
+Kavita Deshmukh · kavita.d@analytics.org · 9867012345 · Nagpur, India
+Professional Summary
+Data Analyst passionate about statistical modeling, executive dashboard design, and translating complex business telemetry into actionable insights.
+Core Competencies
+Tableau, PowerBI, Excel, Python, SQL
+Relevant Experience
+◦ Data Analyst at OmniMetrics Corp, Oct '22 - Till Date
+◦ Designed automated reporting pipelines saving 15 manual analyst hours every week.
+◦ Assisted team in developed executive dashboards tracking marketing spend efficiency and customer retention.
+Academic Background
+B.Sc. in Statistics from St. Xavier's College, 2019 to 2022"
+r007-004,r007,94,15,"company_variation,date_format,degree_variation,verb_swap,typo,header_rename,header_rename,section_reorder","Contact Info
+Kavita Deshmukh, kavita.d@analytics.org, 9867012345, Nagpur, India
+Summary
+Data Analyst passionate about statistical modeling, executive dashboard design, and translating complex business telemetry into actionable insights.
+Employment History
+- Data Analyst at OmniMetrics Corp Technologies, 2022-10 - Till Date
+- Designed automated reporting pipelines saving 15 manual analyst hours every week.
+- Constducted executive dashboards tracking marketing spend efficiency and customer retention.
+Tools & Technologies
+Tableau, PowerBI, Excel, Python, SQL
+Education & Qualifications
+Bachelor of Science in Statistics from St. Xavier's College, 2019 - 2022"
+r007-005,r007,88,15,"phone_format,company_variation,date_format,degree_variation,date_format,typo,punctuation,verb_swap,verb_swap,contact_multiline,header_style_dashed,section_reorder","CONTACT INFO
+Kavita Deshmukh
+kavita.d@analytics.org
++91 9867012345
+Nagpur, India
+SUMMARY
+Data Analyst passionate about statistical modeling, executive dashboard design, and ttanslating complex business telsmetry into actionable insights
+EXPERIENCE
+▪ Data Analyst at OmniMetrics Corp Pvt. Ltd., 2022-10 - Present
+▪ Engineered automated reporting pipelines saving 15 manual analyst hours every week.
+▪ Developed executive dashboards tracking marketing spend efficiency and customer retention.
+TOOLS & TECHNOLOGIES
+Tableau, PowerBI, Excel, Python, SQL
+ACADEMIC BACKGROUND
+Bachelor of Science in Statistics from St. Xavier's College, 2019–2022"
+r008-000,r008,88,15,original,"Contact
+Rohan Sen | rohan.sen@cyberguard.net | +91 99001 88223 | Kolkata, India
+Professional Summary
+Information Security Analyst skilled in threat detection, vulnerability assessments, and SIEM event correlation.
+Experience
+• Security Analyst at Ironclad Security, Jan 2023 - Present
+• Monitored real-time telemetry across 5,000 network endpoints, identifying 14 critical vulnerabilities.
+• Streamlined incident triage protocols to reduce mean time to detect by 35%.
+Education
+B.Tech Information Technology, Heritage Institute of Technology, 2019 - 2023
+Technical Skills
+Wireshark, Splunk, Linux, Metasploit, Python"
+r008-001,r008,81,15,"phone_format,date_format,date_format,verb_swap,typo,contact_multiline,header_upper,bullet_none,header_rename,header_rename,section_reorder","REACH ME AT
+Rohan Sen
+rohan.sen@cyberguard.net
+0990-018-8223
+Kolkata, India
+SUMMARY
+Information Security Analyst skilled in threat detection, vulnerability assessments, and SIEM event correlation.
+EDUCATION
+B.Tech Information Technology, Heritage Institute of Technology, 2019 to 2023
+EXPERIENCE
+Security Analyst at Ironclad Security, Jan '23 - Present
+Monitored real-time telemetry across 5,000 network endpoints, identifying 14 critical vulnerabilities.
+Acelerated incident triage protocols to reduce mean time to detect by 35%.
+TECHNICAL SKILLS
+Wireshark, Splunk, Linux, Metasploit, Python"
+r008-002,r008,89,15,"phone_format,degree_variation,date_format,punctuation,transitional_prefix,punctuation,verb_swap,typo,header_upper,header_rename","CONTACT INFO
+Rohan Sen / rohan.sen@cyberguard.net / 99001 88223 / Kolkata, India
+PROFESSIONAL SUMMARY
+Information Security Analyst skilled in threat detection, vulnerability assessments, and SIEM event correlation
+EXPERIENCE
+▪ Security Analyst at Ironclad Security, Jan 2023 - Present
+▪ Successfully monitored real-time telemetry across 5,000 network endpoints, identifying 14 critical vulnerabilities
+▪ Optimized incident triage protocols to reuce mean time to detect by 35%.
+EDUCATION
+Bachelor of Technology Information Technology, Heritage Institute of Technology, 2019–2023
+TECHNICAL SKILLS
+Wireshark, Splunk, Linux, Metasploit, Python"
+r008-003,r008,89,15,"date_format,degree_variation,date_format,punctuation,typo,header_rename,header_rename,section_reorder","Contact
+Rohan Sen · rohan.sen@cyberguard.net · +91 99001 88223 · Kolkata, India
+Professional Summary
+Information Security Analyst skilled in threat detection, vulnerability assessments, and SIEM event correlation.
+Technologies
+Wireshark, Splunk, Linux, Metasploit, Python
+Employment History
+* Security Analyst at Ironclad Security, 2023-01 - Present
+* Monitored real-time telemetry across 5,000 network endpoints, identifying 14 critical vulnerabilities
+* Streamlined incident ttiage protocols to reduce mean time to detect by 35%.
+Education
+Bachelor of Technology Information Technology, Heritage Institute of Technology, 2019 to 2023"
+r008-004,r008,97,15,"date_format,transitional_prefix,contact_multiline,header_style_bracketed,header_rename,header_rename,header_rename,header_rename,section_reorder","[ Reach Me At]
+Rohan Sen
+rohan.sen@cyberguard.net
++91 99001 88223
+Kolkata, India
+[ Summary]
+Information Security Analyst skilled in threat detection, vulnerability assessments, and SIEM event correlation.
+[ Skills]
+Wireshark, Splunk, Linux, Metasploit, Python
+[ Experience]
+▪ Security Analyst at Ironclad Security, 2023-01 - Current
+▪ Monitored real-time telemetry across 5,000 network endpoints, identifying 14 critical vulnerabilities.
+▪ Assisted team in streamlined incident triage protocols to reduce mean time to detect by 35%.
+[ Academics]
+B.Tech Information Technology, Heritage Institute of Technology, 2019 - 2023"
+r008-005,r008,87,15,"phone_format,date_format,date_format,punctuation,punctuation,verb_swap,header_style_underlined,bullet_none,header_rename,header_rename","Contact
+------------
+Rohan Sen | rohan.sen@cyberguard.net | 99001-88223 | Kolkata, India
+About Me
+------------
+Information Security Analyst skilled in threat detection, vulnerability assessments, and SIEM event correlation
+Experience
+------------
+Security Analyst at Ironclad Security, 01/2023 - Present
+Monitored real-time telemetry across 5,000 network endpoints, identifying 14 critical vulnerabilities
+Accelerated incident triage protocols to reduce mean time to detect by 35%.
+Education
+------------
+B.Tech Information Technology, Heritage Institute of Technology, 2019 to 2023
+Tech Stack
+------------
+Wireshark, Splunk, Linux, Metasploit, Python"
+r009-000,r009,88,15,original,"Reach Me At
+Deepak Nambiar | deepak.n@scalingsystems.dev | 9447012345 | Thiruvananthapuram, India
+Profile
+Backend Systems Engineer specializing in concurrent services, asynchronous messaging architectures, and distributed storage.
+Employment History
+• Backend Software Engineer at DataFlow Systems, May 2022 - Dec 2024
+• Engineered distributed event streaming pipeline processing 100k events per second.
+• Reduced memory footprint of worker pods by 30% through zero-copy serialization.
+Academics
+B.Tech in Computer Science, College of Engineering Trivandrum, 2018 - 2022
+Skills
+Golang, Kafka, Redis, gRPC, Docker"
+r009-001,r009,87,15,"date_format,degree_variation,date_format,verb_swap,punctuation,typo,contact_multiline,header_style_upper,header_rename,header_rename,section_reorder","REACH ME AT
+Deepak Nambiar
+deepak.n@scalingsystems.dev
+9447012345
+Thiruvananthapuram, India
+OBJECTIVE
+Backend Systems Engineer specializing in concurrent services, asynchronous messaging architectures, and distributed storage.
+EMPLOYMENT HISTORY
+* Backend Software Engineer at DataFlow Systems, 2022-05 - 12/2024
+* Developed distributed event streaming pipeline processing 100k events per second
+* Reduced memory footprit of workre pods by 30% through zero-copy serialization.
+ACADEMICS
+Bachelor of Technology in Computer Science, College of Engineering Trivandrum, 2018 to 2022
+TOOLS & TECHNOLOGIES
+Golang, Kafka, Redis, gRPC, Docker"
+r009-002,r009,88,15,"phone_format,date_format,verb_swap,punctuation,verb_swap,punctuation,header_rename,header_rename,header_rename","Reach Me At
+Deepak Nambiar | deepak.n@scalingsystems.dev | +91-944.701.2345 | Thiruvananthapuram, India
+Objective
+Backend Systems Engineer specializing in concurrent services, asynchronous messaging architectures, and distributed storage.
+Employment History
+• Backend Software Engineer at DataFlow Systems, May 2022 - Dec 2024
+• Developed distributed event streaming pipeline processing 100k events per second
+• Slashed memory footprint of worker pods by 30% through zero-copy serialization
+Educational Qualifications
+B.Tech in Computer Science, College of Engineering Trivandrum, 2018–2022
+Tech Stack
+Golang, Kafka, Redis, gRPC, Docker"
+r009-003,r009,86,15,"phone_format,company_variation,date_format,date_format,verb_swap,header_style_underlined,bullet_none,header_rename,header_rename","Contact
+------------
+Deepak Nambiar · deepak.n@scalingsystems.dev · +91 944.701.2345 · Thiruvananthapuram, India
+Profile
+------------
+Backend Systems Engineer specializing in concurrent services, asynchronous messaging architectures, and distributed storage.
+Employment History
+------------------
+Backend Software Engineer at DataFlow, 2022-05 - 12/2024
+Built distributed event streaming pipeline processing 100k events per second.
+Reduced memory footprint of worker pods by 30% through zero-copy serialization.
+Academics
+------------
+B.Tech in Computer Science, College of Engineering Trivandrum, '18 - '22
+Technologies
+------------
+Golang, Kafka, Redis, gRPC, Docker"
+r009-004,r009,88,15,"phone_format,date_format,typo,verb_swap,header_rename,header_rename,section_reorder","Reach Me At
+Deepak Nambiar, deepak.n@scalingsystems.dev, 94470-12345, Thiruvananthapuram, India
+About Me
+Backend Systems Engineer specializing in concurrent services, asynchronous messaigng architectures, and distributed storage.
+Academics
+B.Tech in Computer Science, College of Engineering Trivandrum, 2018 - 2022
+Employment History
+→ Backend Software Engineer at DataFlow Systems, 2022-05 - 12/2024
+→ Engineered distributed event streaming pipeline processing 100k events per second.
+→ Decreased memory footprint of worker pods by 30% through zero-copy serialization.
+Key Skills
+Golang, Kafka, Redis, gRPC, Docker"
+r009-005,r009,94,15,"phone_format,company_variation,date_format,date_format,verb_swap,contact_multiline,header_style_bracketed,header_rename","[ Reach Me At]
+Deepak Nambiar
+deepak.n@scalingsystems.dev
++91 (944) 701-2345
+Thiruvananthapuram, India
+[ Professional Summary]
+Backend Systems Engineer specializing in concurrent services, asynchronous messaging architectures, and distributed storage.
+[ Employment History]
+* Backend Software Engineer at DataFlow LLC, 05/2022–2024-12
+* Engineered distributed event streaming pipeline processing 100k events per second.
+* Lowered memory footprint of worker pods by 30% through zero-copy serialization.
+[ Academics]
+B.Tech in Computer Science, College of Engineering Trivandrum, 2018 to 2022
+[ Skills]
+Golang, Kafka, Redis, gRPC, Docker"
+r010-000,r010,95,15,original,"Contact Information
+Sunita Roy | sunita.roy@talentpartners.in | +91 98300 55443 | New Delhi, India
+Career Objective
+Talent Acquisition Specialist with 4 years of experience sourcing top-tier software engineers and establishing data-driven recruitment pipelines.
+Work Experience
+• Technical Recruiter at TalentForge Global, Apr 2021 - Present
+• Closed 45 niche engineering roles annually across AI, backend, and security domains.
+• Implemented applicant tracking automations decreasing average time-to-hire by 20%.
+Education
+MBA in Human Resources, Delhi School of Economics, 2019 - 2021
+Core Competencies
+Workday, Greenhouse, LinkedIn Recruiter, ATS, Sourcing"
+r010-001,r010,105,15,"phone_format,company_variation,date_format,date_format,typo,transitional_prefix,punctuation,header_style_dashed,header_rename","--- Contact Information ---
+Sunita Roy / sunita.roy@talentpartners.in / +91 983-005-5443 / New Delhi, India
+--- Objective ---
+Talent Acquisition Specialist with 4 years of experience soyrcing top-tier software engineers and establishing data-driven recruitment pipelines.
+--- Work Experience ---
+◦ Technical Recruiter at TalentForge Global Labs, Apr '21 - Current
+◦ Directly closed 45 niche engineering roles annually across AI, backend, and security domains.
+◦ Implemented applicant tracking automations decreasing average time-to-hire by 20%
+--- Education ---
+MBA in Human Resources, Delhi School of Economics, '19 - '21
+--- Core Competencies ---
+Workday, Greenhouse, LinkedIn Recruiter, ATS, Sourcing"
+r010-002,r010,98,15,"phone_format,company_variation,date_format,date_format,verb_swap,transitional_prefix,header_upper,header_rename","CONTACT INFORMATION
+Sunita Roy, sunita.roy@talentpartners.in, 98300 55443, New Delhi, India
+CAREER OBJECTIVE
+Talent Acquisition Specialist with 4 years of experience sourcing top-tier software engineers and establishing data-driven recruitment pipelines.
+WORK EXPERIENCE
+- Technical Recruiter at TalentForge Global Solutions, 04/2021 - Present
+- Closed 45 niche engineering roles annually across AI, backend, and security domains.
+- Led efforts to rolled out applicant tracking automations decreasing average time-to-hire by 20%.
+EDUCATION
+MBA in Human Resources, Delhi School of Economics, '19 - '21
+KEY SKILLS
+Workday, Greenhouse, LinkedIn Recruiter, ATS, Sourcing"
+r010-003,r010,96,15,"phone_format,date_format,degree_variation,date_format,typo,header_rename,header_rename,header_rename,section_reorder","Contact Information
+Sunita Roy | sunita.roy@talentpartners.in | 0(983) 005-5443 | New Delhi, India
+Summary
+Talent Acquisition Sepcialist with 4 years of experience sourcing top-tier software engineers and establishing data-driven recruitment pipelines.
+Core Competencies
+Workday, Greenhouse, LinkedIn Recruiter, ATS, Sourcing
+Educational Qualifications
+Master of Business Administration in Human Resources, Delhi School of Economics, '19 - '21
+Career History
+◦ Technical Recruiter at TalentForge Global, 04/2021 - Present
+◦ Closed 45 niche engineering roles annually across AI, backend, and security domains.
+◦ Implemented applicant tracking automations decreasing average time-to-hire by 20%."
+r010-004,r010,103,15,"date_format,degree_variation,date_format,punctuation,transitional_prefix,punctuation,header_style_underlined,header_rename,header_rename","Contact Information
+-------------------
+Sunita Roy, sunita.roy@talentpartners.in, +91 98300 55443, New Delhi, India
+About Me
+------------
+Talent Acquisition Specialist with 4 years of experience sourcing top-tier software engineers and establishing data-driven recruitment pipelines.
+Work Experience
+---------------
+• Technical Recruiter at TalentForge Global, 2021-04 - Present
+• Closed 45 niche engineering roles annually across AI, backend, and security domains
+• Successfully implemented applicant tracking automations decreasing average time-to-hire by 20%
+Academics
+------------
+Master of Business Administration in Human Resources, Delhi School of Economics, 2019 to 2021
+Core Competencies
+-----------------
+Workday, Greenhouse, LinkedIn Recruiter, ATS, Sourcing"
+r010-005,r010,90,15,"phone_format,date_format,degree_variation,date_format,transitional_prefix,punctuation,transitional_prefix,contact_multiline,bullet_none,header_rename,header_rename,header_rename","Contact
+Sunita Roy
+sunita.roy@talentpartners.in
++91 9830055443
+New Delhi, India
+Profile
+Talent Acquisition Specialist with 4 years of experience sourcing top-tier software engineers and establishing data-driven recruitment pipelines.
+Career History
+Technical Recruiter at TalentForge Global, 2021-04 - Present
+Actively closed 45 niche engineering roles annually across AI, backend, and security domains
+Actively implemented applicant tracking automations decreasing average time-to-hire by 20%.
+Education
+Master of Business Administration in Human Resources, Delhi School of Economics, '19 - '21
+Core Competencies
+Workday, Greenhouse, LinkedIn Recruiter, ATS, Sourcing"
