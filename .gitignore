@@ -4,9 +4,9 @@ __pycache__/
 *$py.class
 *.so
 .Python
+# Build artifacts
 build/
 develop-eggs/
-dist/
 downloads/
 eggs/
 .eggs/
@@ -21,6 +21,14 @@ share/python-wheels/
 .installed.cfg
 *.egg
 MANIFEST
+
+# Publish directories (whitelisted so Render always finds them)
+!Resume Augmentation/
+!Resume Augmentation/**
+!dist/
+!dist/**
+!frontend/dist/
+!frontend/dist/**
 
 # Virtual environments
 .venv/
