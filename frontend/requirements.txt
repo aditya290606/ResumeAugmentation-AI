@@ -1,0 +1,10 @@
+fastapi>=0.110.0
+uvicorn>=0.28.0
+pydantic>=2.0
+python-multipart>=0.0.9
+spacy>=3.7.0
+nlpaug>=1.1.11
+nltk>=3.8
+pandas>=2.0
+pytest>=8.0
+streamlit>=1.30.0
