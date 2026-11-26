@@ -1,0 +1,23 @@
+services:
+  # Static Site Deployment (Frontend Web Application)
+  - type: web
+    name: resume-augment-ai-frontend
+    env: static
+    rootDir: frontend
+    buildCommand: npm install && npm run build
+    staticPublishPath: ./dist
+    routes:
+      - type: rewrite
+        source: /*
+        destination: /index.html
+
+  # Full-Stack Web Service Deployment (FastAPI + Embedded React Frontend)
+  - type: web
+    name: resume-augment-ai-backend
+    env: python
+    plan: free
+    buildCommand: pip install -r requirements.txt && pip install -e . && python -m spacy download en_core_web_sm && cd frontend && npm install && npm run build && cd ..
+    startCommand: uvicorn server:app --host 0.0.0.0 --port $PORT
+    envVars:
+      - key: PYTHON_VERSION
+        value: 3.11.10
